@@ -1,0 +1,2 @@
+E:\R&D\AzureProdStag\AzureProdStag.Cloud\bin\Debug\ServiceConfiguration.cscfg
+E:\R&D\AzureProdStag\AzureProdStag.Cloud\bin\Debug\ServiceDefinition.csdef
